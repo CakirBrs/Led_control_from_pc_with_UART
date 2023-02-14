@@ -24,8 +24,12 @@ FT232RL Module was used for UART communication.
 
 <img src="https://user-images.githubusercontent.com/26774013/218886153-378eee78-3211-4249-bb6d-bd6eff52d659.png" width="512"/>
 
+## PuTTY 
 
-## 
+![b_uart](https://user-images.githubusercontent.com/26774013/218886702-d1a8f1d3-0997-42a3-bc00-df2aca8b0688.gif)
+
+
+## Video
 
 https://user-images.githubusercontent.com/26774013/218884487-024a5ac6-9fa8-4b27-9dfb-a42dd1bd21c6.mp4
 
